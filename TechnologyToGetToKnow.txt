@@ -1,0 +1,3 @@
+Experience on Centralized Logging tools - Elastic Search, Kibana
+Working knowledge on Devops tools like Chef, Bitbucket, Jira
+Experience with Cloud Servers technologies - preferred Azure.
