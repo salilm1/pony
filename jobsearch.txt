@@ -15,7 +15,7 @@ Client: Hewlett Packard Enterprise
 REQ ID: HPJP00070832
   
 
-week ending 6/10
+week ending 6/10 tony
 
 1) 6/5/2017
 
@@ -122,9 +122,9 @@ Laxman Yokesh
 Sr. Technical Recruiter
 Trident Consulting INC
 6990 Village Parkway, Suite-212
-Dublin, CA ñ 94568
+Dublin, CA ‚Äì 94568
 Phone: (925) 203-1086| Fax: 925-237-3690
-UI/UX Developerî
+UI/UX Developer‚Äù
 Detroit, MI
 
 week ending 7/29
