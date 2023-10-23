@@ -6,4 +6,8 @@ release this fucking code
 m1
 
 
+<<<<<<< HEAD
 you an arsehole
+=======
+clown
+>>>>>>> 7a6f960df9b00f3a6f982a633024667e755b8998
